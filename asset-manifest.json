@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-6-textbook/static/css/main.5763847e.css",
+    "main.js": "/hw-6-textbook/static/js/main.039e748d.js",
+    "index.html": "/hw-6-textbook/index.html",
+    "main.5763847e.css.map": "/hw-6-textbook/static/css/main.5763847e.css.map",
+    "main.039e748d.js.map": "/hw-6-textbook/static/js/main.039e748d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.039e748d.js"
+  ]
+}
