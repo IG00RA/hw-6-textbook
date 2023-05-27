@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hw-6-textbook/static/css/main.5763847e.css",
-    "main.js": "/hw-6-textbook/static/js/main.039e748d.js",
+    "main.css": "/hw-6-textbook/static/css/main.76b0b8ed.css",
+    "main.js": "/hw-6-textbook/static/js/main.f4cd141a.js",
     "index.html": "/hw-6-textbook/index.html",
-    "main.5763847e.css.map": "/hw-6-textbook/static/css/main.5763847e.css.map",
-    "main.039e748d.js.map": "/hw-6-textbook/static/js/main.039e748d.js.map"
+    "main.76b0b8ed.css.map": "/hw-6-textbook/static/css/main.76b0b8ed.css.map",
+    "main.f4cd141a.js.map": "/hw-6-textbook/static/js/main.f4cd141a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5763847e.css",
-    "static/js/main.039e748d.js"
+    "static/css/main.76b0b8ed.css",
+    "static/js/main.f4cd141a.js"
   ]
 }
